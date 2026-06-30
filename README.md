@@ -1,6 +1,7 @@
 Video games & AI 
 @tiduskage on X
 
+liorz.dev
 
 ## Projects
 
