@@ -1,7 +1,7 @@
 Video games & AI 
 @tiduskage on X
 
-liorz.dev
+[liorz.dev](https://liorz.dev/)
 
 ## Projects
 
